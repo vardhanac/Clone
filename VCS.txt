@@ -1,0 +1,23 @@
+The Virtual Control System Environment (VCSE) is
+a modeling and simulation tool for Process Control
+Systems (PCS) that is being developed to address the
+following issues in the Roadmap to Secure Control
+Systems [1]:
+? Measure and assess security posture for facility
+providers. The goal is that by 2008, 50% of
+asset owners and operators can perform selfassessments of their control systems using
+consistent criteria.
+? Develop and integrate protective measures for
+PCS. The goal is to provide “security test
+harnesses” for evaluating next generation
+architectures and individual PCS components by
+2014.
+The first goal is challenging because insufficient
+tools and techniques currently exist to measure risk. In
+addition, the threats are hard to demonstrate and quantify.
+A VCSE-like tool may help an analyst determine the
+robustness of a system’s security posture by performing
+analysis on a modeled PCS and its controlled
+infrastructures. In most cases, an on-line operational
+system cannot be stressed by introducing attacks or
+failures to measure the system’s resilience.
